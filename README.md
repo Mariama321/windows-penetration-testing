@@ -277,29 +277,3 @@ Master 2 - Sécurité des Systèmes d'Information
 
 **IMPORTANT:** This project is strictly for educational purposes in a controlled academic environment. Misuse of these techniques is illegal and unethical.
 
----
-
-⭐ **Remember: With great power comes great responsibility. Always hack ethically!** 🛡️
-```
-
-4. Commit : `Complete penetration testing documentation`
-
----
-
-### **Action 3 : Ajouter les Topics**
-
-1. Cliquez sur **⚙️** dans "About"
-2. Ajoutez ces topics :
-```
-pentesting
-metasploit
-cybersecurity
-ethical-hacking
-kali-linux
-windows
-meterpreter
-exploitation
-red-team
-hacking
-security
-reverse-shell
