@@ -15,7 +15,7 @@ All techniques demonstrated in this project were performed in a controlled lab e
 Practical implementation of Windows penetration testing techniques using Metasploit Framework, demonstrating exploitation, post-exploitation, and persistence mechanisms in a controlled environment.
 
 **Academic Project** | Master 2 - Sécurité des Systèmes d'Information | 2024-2025  
-**Supervisor:** M. Moussa DIEDHIOU
+
 
 ---
 
@@ -265,13 +265,6 @@ netsh advfirewall firewall add rule ^
 **Mariama DIACK**  
 Master 2 - Sécurité des Systèmes d'Information
 
-**Contact:**
-- 🌐 Portfolio: [mariama321.github.io](https://mariama321.github.io)
-- 💼 LinkedIn: [linkedin.com/in/mariamd3](https://linkedin.com/in/mariamd3)
-- 📧 Email: diackmariam3@gmail.com
-- 💻 GitHub: [@Mariama321](https://github.com/Mariama321)
-
----
 
 ## 📄 Legal Notice
 
