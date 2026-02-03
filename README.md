@@ -53,26 +53,6 @@ Practical implementation of Windows penetration testing techniques using Metaspl
 
 ---
 
-## 🏗️ Lab Architecture
-```
-Attacker Machine                Target Machine
-┌─────────────────┐            ┌─────────────────┐
-│   Kali Linux    │            │   Windows 10    │
-│  192.168.1.3    │◄──────────►│  192.168.1.2    │
-│                 │   Exploit  │                 │
-│  - Metasploit   │   Payload  │  - Vulnerable   │
-│  - Msfvenom     │   Delivery │    Services     │
-│  - NetCat       │            │  - NSClient++   │
-└─────────────────┘            └─────────────────┘
-        │                              │
-        └──────────────┬───────────────┘
-                       │
-                  Network Switch
-                  192.168.1.0/24
-```
-
----
-
 ## 🔧 Attack Methodology
 
 ### **Phase 1: Reconnaissance**
